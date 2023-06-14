@@ -24,6 +24,13 @@ instructions for quick reference.</p>
   <li><b>pwd</b> Nos permite mostrar la ruta del directorio actual en la terminal</li>
   <li><b>ls</b>Muestra la lista de contenidos de un directorio</li>
   <li><b>git log</b>Muestra el historial de cambios en el repositorio</li>
+  <li><b>git add .</b>Agrega todos los archivos modificados al repositorio</li>
+  <li><b>git status</b>Verificar el estado del repositorio</li>
+  <li><b>git commit -m "escribiendo comandos en git"</b>Guarda los cambios realizados en el repositorio con un mensaje</li>
+  <li><b>git branch </b>Muestra el nombre gitde la rama</li>
+  <li><b>git commit</b></li>
+  <li><b>git branch -m main</b>Nos permite cambiar el nombre de la rama</li>
+  <li><b>git diff</b>Nos permite identificar los datos que no se han a guardado </li>
 </ul>
 </body>
 </html>
